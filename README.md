@@ -1,6 +1,5 @@
 # BlockChain_Ledger_System
 
-################################################################################
 In this program, we'll build a ledger to record transactions on the blockchain.  We will achieve this by
 
 ## Step 1: Create a Record Data Class
